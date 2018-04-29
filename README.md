@@ -1,2 +1,2 @@
-# JavascriptFrameworks
-Practice for JS Frameworks
+# Javascript Practice
+Practice for JS
